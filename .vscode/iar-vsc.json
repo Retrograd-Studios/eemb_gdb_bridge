@@ -1,0 +1,16 @@
+{
+  "workspace": {
+    "path": "${workspaceFolder}\\Moderon_IS20C01-master\\EWARM\\Project.eww"
+  },
+  "workspaces": {
+    "${workspaceFolder}\\Moderon_IS20C01-master\\EWARM\\Project.eww": {
+      "configs": {},
+      "selected": {
+        "path": "${workspaceFolder}\\Moderon_IS20C01-master\\EWARM\\PLC_bootloader.ewp"
+      }
+    }
+  },
+  "workbench": {
+    "path": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.1"
+  }
+}
